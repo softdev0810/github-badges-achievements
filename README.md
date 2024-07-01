@@ -361,4 +361,4 @@ If you have questions or suggestions on how to improve the information on this p
   <img align="center" width="50%" src="images/PullShark_Animated.gif">
 </div>
 
-# © 2023 Champion & Lai. All rights reserved.
+# © 2023 All rights reserved.
